@@ -25,3 +25,7 @@
 ## JSON (JavaScript Object Notation)
 * 데이터를 주고받는데 사용하는 데이터 형식중 하나
 * key-value 쌍으로 이루어진 데이터 객체 (javascript 객체형식)
+
+## 서버사이드 렌더링 VS 클라이언트 사이드 렌더링 (SSR vs CSR)
+https://jaroinside.tistory.com/24
+https://subicura.com/2016/06/20/server-side-rendering-with-react.html
